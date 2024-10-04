@@ -15,12 +15,17 @@ Before you begin, ensure you have met the following requirements:
 ## Getting Started
 
 ### Clone the repository
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
 
+git clone https://github.com/ganesh5124/todo-app.git
+cd todo-app
 
+## Install necessary packages
+npm install
 
+## To start the application
+npm start
+
+The application should now be running on http://localhost:3000 (or the port specified in your app).
 
 
 
