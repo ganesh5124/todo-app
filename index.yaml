@@ -3,7 +3,7 @@ entries:
   demo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-30T19:23:03.844011+05:30"
+    created: "2024-10-30T19:39:09.77198+05:30"
     description: A Helm chart for Kubernetes
     digest: bfa4a2e88964270e81fa4b987796f1bcfce84efb5161838adb41a36fcbcaccdb
     name: demo
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://ganesh5124.github.io/todo-app/demo-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-30T19:23:03.843065+05:30"
+generated: "2024-10-30T19:39:09.770989+05:30"
