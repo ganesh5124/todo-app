@@ -5,7 +5,7 @@ trigger:
 
 
 pool:
-  vmImage: kk
+  vmImage: ubuntu-latest
 
 
 steps:
